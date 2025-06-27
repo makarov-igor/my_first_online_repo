@@ -1,2 +1,3 @@
 # my_first_online_repo
 Learning the ropes of Git @ Udemy !
+## about to clone this treasure to my local PC...
